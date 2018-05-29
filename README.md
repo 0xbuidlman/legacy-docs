@@ -4,10 +4,10 @@ Welcome to the Monax Documentation homepage. Here you'll find everything needed 
 
 ## Getting going
 
-* For installation and writing your first application, see our [getting started tutorial <i class="fa fa-chevron-circle-right" aria-hidden="true"></i>](/getting-started).
-* For deploying multi-node chains in the cloud, see our [chain deploying tutorial <i class="fa fa-chevron-circle-right" aria-hidden="true"></i>](/chain-deploying).
-* For making consortium chains with several stakeholders, see our [known chain making tutorial <i class="fa fa-chevron-circle-right" aria-hidden="true"></i>](/known-chain-making).
-* For advanced smart contract deployments, see [this tutorial <i class="fa fa-chevron-circle-right" aria-hidden="true"></i>](/deploying-advanced-smart-contracts-to-a-chain).
+* For installation and writing your first application, see our [getting started tutorial <i class="fa fa-chevron-circle-right" aria-hidden="true"></i>](/getting-started.md).
+* For deploying multi-node chains in the cloud, see our [chain deploying tutorial <i class="fa fa-chevron-circle-right" aria-hidden="true"></i>](/chain-deploying.md).
+* For making consortium chains with several stakeholders, see our [known chain making tutorial <i class="fa fa-chevron-circle-right" aria-hidden="true"></i>](/known-chain-making.md).
+* For advanced smart contract deployments, see [this tutorial <i class="fa fa-chevron-circle-right" aria-hidden="true"></i>](/deploying-advanced-smart-contracts-to-a-chain.md).
 
 ### Solidity skills
 
