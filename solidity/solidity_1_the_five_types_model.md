@@ -1073,4 +1073,4 @@ There are some things to consider when deciding how the system should be designe
 There is also the matter of trust, but I treat that in the beginning of the document.
 
 
-## [<i class="fa fa-chevron-circle-left" aria-hidden="true"></i> All Solidity Tutorials](../../tree/solidity/)
+## [<i class="fa fa-chevron-circle-left" aria-hidden="true"></i> All Solidity Tutorials](../../../tree/solidity/)
