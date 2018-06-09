@@ -11,17 +11,17 @@ title: "Tutorials | Solidity 1: The Five Types Model"
 {{% data_sites rename_docs %}}
 </div>
 
-This sequence of tutorials assumes that you have an understanding of the `monax` tooling to the point we ended in our [101 tutorial sequence](/docs/getting-started/).
+This sequence of tutorials assumes that you have an understanding of the `monax` tooling to the point we ended in our [101 tutorial sequence](/getting-started.md/).
 
 This tutorial is part of our Solidity tutorial series:
 
-* [Part 1: The Five Types Model](/docs/solidity/solidity_1_the_five_types_model)
-* [Part 2: Action-Driven Architecture](/docs/solidity/solidity_2_action_driven_architecture)
-* [Part 3: Solidity Language Features](/docs/solidity/solidity_3_solidity_language_features)
-* [Part 4: Testing Solidity](/docs/solidity/solidity_4_testing_solidity)
-* [Part 5: Modular Solidity](/docs/solidity/solidity_5_modular_solidity)
-* [Part 6: Advanced Solidity Features](/docs/solidity/solidity_6_advanced_solidity_features)
-* [Part 7: Updating Solidity Contracts](/docs/solidity/solidity_7_updating_solidity_contracts)
+* [Part 1: The Five Types Model](/solidity/solidity_1_the_five_types_model.md)
+* [Part 2: Action-Driven Architecture](/solidity/solidity_2_action_driven_architecture.md)
+* [Part 3: Solidity Language Features](/solidity/solidity_3_solidity_language_features.md)
+* [Part 4: Testing Solidity](/solidity/solidity_4_testing_solidity.md)
+* [Part 5: Modular Solidity](/solidity/solidity_5_modular_solidity.md)
+* [Part 6: Advanced Solidity Features](/solidity/solidity_6_advanced_solidity_features.md)
+* [Part 7: Updating Solidity Contracts](/solidity/solidity_7_updating_solidity_contracts.md)
 
 ## Introduction
 
@@ -1073,4 +1073,4 @@ There are some things to consider when deciding how the system should be designe
 There is also the matter of trust, but I treat that in the beginning of the document.
 
 
-## [<i class="fa fa-chevron-circle-left" aria-hidden="true"></i> All Solidity Tutorials](/docs/solidity/)
+## [<i class="fa fa-chevron-circle-left" aria-hidden="true"></i> All Solidity Tutorials](../../../tree/master/solidity/)
